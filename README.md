@@ -5,20 +5,23 @@
 * Core ML cible les applications fonctionnant sur des périphériques Apple (y compris iOS, watchOS, macOS et tvOS).
 * Core ML models : https://developer.apple.com/machine-learning/
 * Core ML démos : https://github.com/likedan/Awesome-CoreML-Models
-* A Guide to CoreML on iOS by Siraj Raval : https://youtu.be/T4t73CXB7CU
+* A Guide to Core ML on iOS by Siraj Raval : https://youtu.be/T4t73CXB7CU
 * Mastering Core ML for iOS on Udemy by Mohammad Azam : http://bit.ly/2ADSykK
 
 
 # Implement Image detection App Using Apple CoreML 
+* load Inception v3 from https://developer.apple.com/machine-learning/
+*  Inception v3 detects the dominant objects present in an image from a set of 1000 categories such as trees, animals, food, vehicles, people, and more.
+* step 1 : drag and drop Inceptionv3.mlmodel inside the repository
+* step 2 : create the UX interface in  Main.storyboard
+* step 3 : implement the following code in ViewController.swift
+
 ```swift
-//
-//  ViewController.swift
-//  ImgRecoCoreML
-//
+
 //  Created by DRUMARE on 13/11/2017.
 //  Credits : Mohammad Azam
-//
 
+// ViewController.swift
 import UIKit
 
 class ViewController: UIViewController {
