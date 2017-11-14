@@ -1,4 +1,4 @@
- ![alt tag]()
+ ![alt tag](https://github.com/MagaliDrumare/Implement-Image-Detection-App-Using-Apple-Core-ML-/blob/master/ImageReco.gif)
 
 # A voir et à savoir : 
 * Core ML est le nouveau framework de machine learning d'Apple. 
