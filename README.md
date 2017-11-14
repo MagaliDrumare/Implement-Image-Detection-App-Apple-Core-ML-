@@ -1,3 +1,6 @@
+
+ ![alt tag](https://www.dropbox.com/s/uc97kzfdtwnsxwv/test.gif?dl=0)
+
 # A voir et à savoir : 
 * Core ML est le nouveau framework de machine learning d'Apple. 
 * Core ML permet aux développeurs d'intégrer de manière simple et facile des modèles de machine learning entrainés
