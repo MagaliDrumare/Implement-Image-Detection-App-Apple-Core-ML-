@@ -1,7 +1,7 @@
  ![alt tag](https://github.com/MagaliDrumare/Implement-Image-Detection-App-Using-Apple-Core-ML-/blob/master/ImageReco.gif)
 
 # A voir et à savoir : 
-* Core ML est le nouveau framework de machine learning d'Apple. 
+* Core ML est le nouveau framework de machine learning d'Apple : https://developer.apple.com/videos/play/wwdc2017/710/
 * Core ML permet aux développeurs d'intégrer de manière simple et facile des modèles de machine learning entrainés
   dans leurs applications. 
 * Core ML cible les applications fonctionnant sur des périphériques Apple (y compris iOS, watchOS, macOS et tvOS).
